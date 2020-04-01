@@ -1,11 +1,5 @@
 # satisfied_developer_factors
 ###### Analysis of Stack Overflow's 2019 Annual Developer Survey to look into the factors leading to job and career satisfaction
-Table of Contents
-Installation
-Project Motivation
-File Descriptions
-Results
-Licensing, Authors, and Acknowledgements
 
 ## Installation
 There is no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.
